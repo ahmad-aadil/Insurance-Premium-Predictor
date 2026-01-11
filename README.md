@@ -36,7 +36,7 @@ The dataset contains insurance-related customer information with the following c
 | insurance_premium_category | Target variable (Low / Medium / High) |
 
 
-## 🛠 Feature Engineering
+##  Feature Engineering
 
 Several domain-driven features were created to improve model performance.
 
