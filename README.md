@@ -29,10 +29,6 @@ The dataset contains insurance-related customer information with the following c
 
 Several domain-driven features were created to improve model performance.
 
-###  Body Mass Index (BMI)
-
-```python
-
 
 ##  Features
 
