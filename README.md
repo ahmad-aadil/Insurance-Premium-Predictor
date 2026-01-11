@@ -8,6 +8,18 @@ The app uses **FastAPI** as a backend REST API and **Streamlit** as an interacti
 And describes the **data preprocessing, feature engineering, model training,
 evaluation, and serialization** process used for the Insurance Premium Category Predictor.
 
+**Algorithm Used: Random Forest Classifier**
+
+The model uses Random Forest as the core algorithm:
+
+Handles non-linear relationships effectively
+
+Robust to outliers and noisy data
+
+Works well with mixed feature types (categorical + numerical)
+
+Provides feature importance for interpretability
+
 ##  Dataset Overview
 
 The dataset contains insurance-related customer information with the following columns:
