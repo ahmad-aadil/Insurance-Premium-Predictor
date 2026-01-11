@@ -5,7 +5,6 @@ based on user demographic, financial, and lifestyle information.
 
 The app uses **FastAPI** as a backend REST API and **Streamlit** as an interactive frontend UI.
 
----
 
 ##  Features
 
@@ -38,4 +37,5 @@ The app uses **FastAPI** as a backend REST API and **Streamlit** as an interacti
 }
 
 Author
+
 Aadil Ahmad
