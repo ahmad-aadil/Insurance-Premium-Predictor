@@ -23,7 +23,6 @@ The dataset contains insurance-related customer information with the following c
 | occupation | Employment category |
 | insurance_premium_category | Target variable (Low / Medium / High) |
 
----
 
 ## 🛠 Feature Engineering
 
